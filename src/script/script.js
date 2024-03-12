@@ -67,7 +67,7 @@ var x = setInterval(function() {
   // If the count down is finished, write some text
   if (distance < 0) {
     clearInterval(x);
-    const confirmEndCountDown = alert('Klik Icon Love');
+    const confirmEndCountDown = alert('Klik Icon Love ya sayangkuu');
     /* My Love Button */
     btnModalMyLove.onclick = function (){
         modalMyLove.style.display = "block"
